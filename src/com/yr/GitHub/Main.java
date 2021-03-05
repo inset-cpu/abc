@@ -3,6 +3,7 @@ package com.yr.GitHub;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("ÖîÂŞÂå");
+        System.out.println("Ã–Ã®Ã‚ÃÃ‚Ã¥");
+        System.out.println("1916601829");
     }
 }
